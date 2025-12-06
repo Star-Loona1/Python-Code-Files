@@ -1,0 +1,12 @@
+name = input("Enter the name: ")
+print("The name is: ", name)
+age = int(input("Enter age: "))
+print("The age is: ", age)
+grade = int(input("Enter grade: "))
+print("The grade is: ", grade)
+
+print("Hello,",name)
+print("You are ",age)
+print("You are in grade ",grade)
+print("Congratulations,", name, ", you have successfully logged in")
+print("Thank you.")
